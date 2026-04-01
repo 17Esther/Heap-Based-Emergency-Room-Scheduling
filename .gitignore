@@ -1,0 +1,19 @@
+# Compiled Java bytecode
+*.class
+
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code (optional local settings)
+.vscode/
